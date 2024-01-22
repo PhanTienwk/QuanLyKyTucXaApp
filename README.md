@@ -28,4 +28,4 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/PhanTienwk/QuanLyKyTucXaApp/blob/main/qlktx-main/src/img/4%20khong%20ml%20(1).jpg)
+![App Screenshot](https://raw.github.com/PhanTienwk/QuanLyKyTucXaApp/main/qlktx-main/src/img/4%20khong%20ml%20(1).jpg)
